@@ -4,6 +4,7 @@
 
 - <b>Network Security (Wireshark, Nmap, tcpdump)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Changing File Permissions with Linux](
  
 - <b>Ethical Hacking (CTFs and Penetration testing)</b>
   - dv
