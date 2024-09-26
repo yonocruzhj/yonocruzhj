@@ -4,13 +4,14 @@
 
 - <b>Network Security (Wireshark, Nmap, tcpdump)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
 - <b>Ethical Hacking (CTFs and Penetration testing)</b>
-  - 
+  - dv
 - <b>Risk and Vulnerability Assessments</b>
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
   - 
 - <b> Incident Response </b>
-  - 
+  - ev
 
 
 <h2>🗞️ Certifications</h2>
