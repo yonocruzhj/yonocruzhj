@@ -10,10 +10,14 @@
 - <b>Ethical Hacking (CTFs and Penetration testing)</b>
   - dv
 - <b>Risk and Vulnerability Assessments</b>
+  - [Scoring Risks](
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
-  - [Vulnerability Assessment for Small Business]
+  - [Vulnerability Assessment for Small Business](
+  - 
 - <b> Incident Response </b>
+  - [Document Incident Using Incident Handler's Report](
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
+  
 
 
 <h2>🗞️ Certifications</h2>
@@ -23,5 +27,3 @@
 - [CompTIA Security +]
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
