@@ -11,7 +11,7 @@
   - dv
 - <b>Risk and Vulnerability Assessments</b>
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
-  - 
+  - [Vulnerability Assessment for Small Business]
 - <b> Incident Response </b>
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
 
