@@ -12,7 +12,7 @@
 - <b>Risk and Vulnerability Assessments</b>
   - [Scoring Risks](
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
-  - [Vulnerability Assessment for Small Business](
+  - [Vulnerability Assessment for Small Business](https://github.com/yonocruzhj/Vulnerability-Assessment-Report.git)
   - 
 - <b> Incident Response </b>
   - [Document Incident Using Incident Handler's Report](
