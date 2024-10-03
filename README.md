@@ -4,6 +4,7 @@
 
 - <b>Network Security (Wireshark, Nmap, tcpdump)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireshark: Analyzing Packets](
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [Filtering: SQL Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
  
