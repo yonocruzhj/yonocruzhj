@@ -5,7 +5,8 @@
 - <b>Network Security (Wireshark, Nmap, tcpdump, etc.)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
-  - [Filtering: SQL Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
+  - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
+  - [Python: Updating Files](
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
 - <b>Ethical Hacking (CTFs and Penetration testing)</b>
