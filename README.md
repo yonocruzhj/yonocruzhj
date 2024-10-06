@@ -5,6 +5,8 @@
 - <b>Network Security (Wireshark, Nmap, tcpdump, etc.)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
+  - [Creating a Honeypot](
+  - [Creating a Website](
   - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
   - [Suricata: Examine Alert Logs and Rules](https://github.com/yonocruzhj/Suricata.git)
   - [Python: Updating Files](
