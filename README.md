@@ -6,6 +6,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
+  - [Suricata: Examine Alert Logs and Rules](https://github.com/yonocruzhj/Suricata.git)
   - [Python: Updating Files](
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
@@ -18,10 +19,7 @@
 - <b> Incident Response </b>
   - [Document Incident Using Incident Handler's Report](https://github.com/yonocruzhj/Document-Incident-Handler-Report.git)
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
-  - [Suricata: Examine Alert Logs and Rules](
   
-
-
 <h2>🗞️ Certifications</h2>
 
 - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/verify/GAHGAS6XBB7T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
