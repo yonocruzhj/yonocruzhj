@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Security (Wireshark, Nmap, tcpdump, etc.)</b>
+- <b>Network Security </b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
@@ -12,7 +12,7 @@
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
-- <b>Ethical Hacking (CTFs and Penetration testing)</b>
+- <b>Ethical Hacking</b>
   - TBA
   
 - <b>Risk and Vulnerability Assessments</b>
