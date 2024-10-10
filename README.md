@@ -3,10 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Security </b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
-  - [Creating a Website](
   - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
   - [Suricata: Examine Alert Logs and Rules](https://github.com/yonocruzhj/Suricata.git)
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
