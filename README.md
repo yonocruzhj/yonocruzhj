@@ -13,8 +13,6 @@
   - [Tata Consultancy Services: Identity Access Management Design and Implentation](https://github.com/yonocruzhj/TCS-Tasks.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
-- <b>Ethical Hacking</b>
-  - TBA
   
 - <b>Risk and Vulnerability Assessments</b>
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
