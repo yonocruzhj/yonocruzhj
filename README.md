@@ -10,7 +10,7 @@
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
   - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
   - [Suricata: Examine Alert Logs and Rules](https://github.com/yonocruzhj/Suricata.git)
-  - [Tata Consultancy Services: Identity Access Management](https://github.com/yonocruzhj/TCS-Tasks.git)
+  - [Tata Consultancy Services: Identity Access Management Design and Implentation](https://github.com/yonocruzhj/TCS-Tasks.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
 - <b>Ethical Hacking</b>
