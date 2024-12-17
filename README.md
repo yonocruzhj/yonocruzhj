@@ -28,6 +28,6 @@
 
 - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/verify/GAHGAS6XBB7T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/fde7e2cd-2f7f-4d6a-9d93-ae4000e06292/linked_in_profile) 
-- [CompTIA Security +] In Progress
+- [CompTIA Security +](https://www.credly.com/badges/5e06b3dc-27d9-46fc-a9b8-dd2d4d5fb279/linked_in_profile) 
 
 
