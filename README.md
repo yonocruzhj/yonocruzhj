@@ -18,6 +18,7 @@
   -  [Tata Consultancy Services: Identity Access Management (IAM) Design and Implentation](https://github.com/yonocruzhj/TCS-Tasks.git)
   - [Vulnerability Assessment for Small Business](https://github.com/yonocruzhj/Vulnerability-Assessment-Report.git)
 - <b> Incident Response </b>
+  - [AIG: Responding to Zero Day Attack and Bypassing Ransomware](https://github.com/yonocruzhj/AIG---Tasks.git)
   - [Document Incident Using Incident Handler's Report](https://github.com/yonocruzhj/Document-Incident-Handler-Report.git)
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
   - [Mastercard Job: Design Phishing Simulation and Awareness Training](https://github.com/yonocruzhj/Design-Phishing-Simulation.git)
