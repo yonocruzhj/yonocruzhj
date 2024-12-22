@@ -23,7 +23,7 @@
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
   - [Mastercard Job: Design Phishing Simulation and Awareness Training](https://github.com/yonocruzhj/Design-Phishing-Simulation.git)
  
-<h2>Homelab SOC Set Up Components (In Progress)</h2>
+<h2> 🛡️ Homelab SOC Set Up Components (In Progress)🛡️</h2>
 
 
 -  [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
