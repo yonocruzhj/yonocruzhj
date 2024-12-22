@@ -24,7 +24,9 @@
   - [Mastercard Job: Design Phishing Simulation and Awareness Training](https://github.com/yonocruzhj/Design-Phishing-Simulation.git)
  
 <h2>Homelab SOC Set Up Components (In Progress)</h2>
-- [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
+
+
+-  [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
 -  [Pfsense: Firewall and Network Segmentation](
 -  [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
 - 
