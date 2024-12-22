@@ -8,8 +8,6 @@
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
   - [Create Certificate Authority: Issue PKI Certificate](https://github.com/yonocruzhj/Certificate-Authority-Issue-PKI-Certificate.git)
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
-  - [SQL: Filtering Queries](https://github.com/yonocruzhj/Filtering-SQL-Queries.git)
-  - [Suricata: Examine Alert Logs and Rules](https://github.com/yonocruzhj/Suricata.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
   
