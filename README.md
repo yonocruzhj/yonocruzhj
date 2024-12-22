@@ -8,6 +8,7 @@
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
   - [Create Certificate Authority: Issue PKI Certificate](https://github.com/yonocruzhj/Certificate-Authority-Issue-PKI-Certificate.git)
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
+  - [Pfsense: Firewall and Network Segmentation](
   - [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
