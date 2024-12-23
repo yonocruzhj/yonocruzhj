@@ -27,7 +27,7 @@
 
 
 -  [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
--  [Kali Linux: Configure Attack Machine](
+-  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git) 
 -  [Pfsense: Firewall and Network Segmentation](
 -  [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
 - 
