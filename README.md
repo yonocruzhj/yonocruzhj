@@ -6,6 +6,7 @@
   - [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
+  - [Comptia: Configuring Security Control Types](
   - [Create Certificate Authority: Issue PKI Certificate](https://github.com/yonocruzhj/Certificate-Authority-Issue-PKI-Certificate.git)
   - [Python: Updating Files](https://github.com/yonocruzhj/Python.git)
   - [Pfsense: Firewall and Network Segmentation](
