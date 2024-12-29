@@ -13,6 +13,8 @@
   - [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
   - [Wireshark: Analyzing Packets](https://github.com/yonocruzhj/Wireshark.git)
  
+- <b>Ethical Hacking </b>
+  - [Kali Linux: Port Scan Attack and Malware Analysis](
   
 - <b>Risk and Vulnerability Assessments</b>
   - [Security Audit: Botium Toys](https://github.com/yonocruzhj/Botium-Toys-Security-Audit)
