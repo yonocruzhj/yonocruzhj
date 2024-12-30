@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Security </b>
-  - [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
+  - [Active Directory: Managing Users and Group Policy](https://github.com/yonocruzhj/Create-Active-Directory.git)
   - [Changing File Permissions with Linux](https://github.com/yonocruzhj/Changing-File-Permissions.git)
   - [Cowrie: Creating a Honeypot](https://github.com/yonocruzhj/honeypot.git)
   - [Comptia: Configuring Security Control Types](
@@ -29,7 +29,7 @@
 
 
 -  [Homelab Topology](https://github.com/yonocruzhj/Topology.git)
--  [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
+-  [Active Directory](https://github.com/yonocruzhj/Create-Active-Directory.git)
 -  [IPfire: Firewall, DHCP Server, and Router Configurations](
 -  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git) 
 -  [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
