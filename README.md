@@ -28,6 +28,7 @@
 <h2> 🛡️ Homelab SOC Set Up Components (In Progress)🛡️</h2>
 
 
+-  [Homelab Topology](
 -  [Active Directory: Setting Up Home Lab](https://github.com/yonocruzhj/Create-Active-Directory.git)
 -  [IPfire: Firewall, DHCP Server, and Router Configurations](
 -  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git) 
