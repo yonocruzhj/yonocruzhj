@@ -30,7 +30,7 @@
 
 -  [Homelab Topology](https://github.com/yonocruzhj/Topology.git)
 -  [Active Directory](https://github.com/yonocruzhj/Create-Active-Directory.git)
--  [IPfire: Firewall, DHCP Server, and Router Configurations](
+-  [IPfire: Firewall](
 -  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git) 
 -  [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
 - 
