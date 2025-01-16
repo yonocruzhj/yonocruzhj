@@ -25,15 +25,14 @@
   - [DDoS Attack: Incident Response using NIST CSF](https://github.com/yonocruzhj/NIST-CSF-Incident-Response.git)
   - [Mastercard Job: Design Phishing Simulation and Awareness Training](https://github.com/yonocruzhj/Design-Phishing-Simulation.git)
  
-<h2> 🛡️ Homelab SOC Set Up Components (In Progress)🛡️</h2>
+<h2> 🛡️ Homelab SOC 🛡️</h2>
 
 
 -  [Homelab Topology](https://github.com/yonocruzhj/Topology.git)
 -  [Active Directory](https://github.com/yonocruzhj/Create-Active-Directory.git)
--  [IPfire: Firewall](
--  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git) 
+-  [Kali Linux: Configure Attack Machine](https://github.com/yonocruzhj/kali-configuration.git)
+-  [MYDFIR 30-Day SOC Challenge](
 -  [Splunk: Real-Time Log Analysis and Monitoring Dashboards](https://github.com/yonocruzhj/Splunk-dashboard.git)
-- 
   
 <h2>🗞️ Certifications</h2>
 
